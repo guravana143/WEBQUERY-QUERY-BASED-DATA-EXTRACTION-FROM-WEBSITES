@@ -1,0 +1,6 @@
+requests
+BeautifulSoup4
+re
+transformers 
+streamlit 
+langchain_core
